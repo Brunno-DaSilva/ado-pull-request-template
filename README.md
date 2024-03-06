@@ -2,6 +2,7 @@
 
 The pull request (PR) process is a critical part of collaborative software development. To ensure that your PR is properly reviewed and integrated into the codebase, it's important to follow a few key steps
 
+* You can use my template below and follow the instructions at [Improve pull request descriptions using templates](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates?view=azure-devops)
 ## 1. Before Submit a PR 📢
 
 Before submitting your pull request, make sure that your code is easy to review, maintainable, and readable. The following guidelines will help you to ensure the quality of your code and identify any areas that may require attention.
