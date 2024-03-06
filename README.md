@@ -2,7 +2,7 @@
 
 The pull request (PR) process is a critical part of collaborative software development. To ensure that your PR is properly reviewed and integrated into the codebase, it's important to follow a few key steps
 
-## **1. Before Submit a PR** 📢
+## 1. Before Submit a PR 📢
 
 Before submitting your pull request, make sure that your code is easy to review, maintainable, and readable. The following guidelines will help you to ensure the quality of your code and identify any areas that may require attention.
 
@@ -42,7 +42,7 @@ Before submitting your pull request, make sure that your code is easy to review,
 
 <br />
 
-## **2. PRs House Rules** 🏠
+## 2. PRs House Rules 🏠
 
 - **Review the PR with another developer** :
   - Use the daily developer work session to review the PR with another developer or schedule a meeting separately.
@@ -84,7 +84,7 @@ Before submitting your pull request, make sure that your code is easy to review,
 
 <br>
 
-##3. PR Template:🚧
+## 3. PR Template:🚧
 
 <br />
 
